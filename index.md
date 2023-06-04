@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!-- For styles with static names... -->
+<link href="{{ 'assets/css/style.css' | relative_url }}" rel="stylesheet">
+<!-- For documents/pages whose URLs can change... -->
+<!-- [{{ page.title }}]("{{ page.url | relative_url }}") -->
 
-You can use the [editor on GitHub](https://github.com/Ashish0898/Ashish0898.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="container">
+  <h1>John Doe</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  ## Summary
+  I am an experienced software developer with a strong background in web development and a passion for creating clean and efficient code. I have worked on various projects, including e-commerce platforms and content management systems. I am a quick learner and enjoy working in a collaborative team environment.
 
-### Markdown
+  ## Skills
+  - Programming Languages: JavaScript, Python, HTML, CSS
+  - Web Frameworks: React, Django, Flask
+  - Version Control: Git
+  - Database Systems: MySQL, MongoDB
+  - Other Tools: VS Code, Jira, Jenkins
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  ## Experience
+  ### Software Developer | XYZ Company
+  - Developed and maintained web applications using React and Django.
+  - Collaborated with cross-functional teams to deliver high-quality software solutions.
+  - Implemented new features and optimized existing code for performance.
 
-```markdown
-Syntax highlighted code block
+  ### Frontend Developer | ABC Agency
+  - Built responsive and user-friendly websites using HTML, CSS, and JavaScript.
+  - Worked closely with designers to ensure pixel-perfect implementation of UI/UX designs.
+  - Conducted code reviews and provided constructive feedback to improve code quality.
 
-# Header 1
-## Header 2
-### Header 3
+  ## Education
+  - Bachelor of Science in Computer Science | University of ABC (Year)
 
-- Bulleted
-- List
+  ## Projects
+  ### E-commerce Website
+  - Developed a fully functional e-commerce website using React and Django.
+  - Implemented features such as product listing, shopping cart, and payment integration.
 
-1. Numbered
-2. List
+  ### Blogging Platform
+  - Created a blogging platform using Flask and MongoDB.
+  - Implemented user authentication, CRUD operations for blog posts, and comment functionality.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ashish0898/Ashish0898.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  ## Contact Information
+  - Email: john.doe@example.com
+  - Phone: (123) 456-7890
+  - LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
+</div>
